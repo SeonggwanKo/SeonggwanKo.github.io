@@ -3,7 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gggch414.github.io/authors/</loc>
+  </url>
+  
+  <url>
     <loc>http://gggch414.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gggch414.github.io/zh/homepage/new/</loc>
   </url>
   
   <url>
@@ -11,7 +19,7 @@
   </url>
   
   <url>
-    <loc>http://gggch414.github.io/zh/homepage/new/</loc>
+    <loc>http://gggch414.github.io/authors/new-author/</loc>
   </url>
   
   <url>
