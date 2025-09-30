@@ -1,0 +1,7 @@
+@inproceedings{ko2024reference,
+  title={Reference-based burst super-resolution},
+  author={Ko, Seonggwan and Koh, Yeong Jun and Cho, Donghyeon},
+  booktitle=ACMMM,
+  pages={1857--1865},
+  year={2024}
+}

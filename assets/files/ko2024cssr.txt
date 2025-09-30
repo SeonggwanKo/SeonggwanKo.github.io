@@ -1,0 +1,7 @@
+@inproceedings{ko2024cssr,
+  title={{CSSR}: Cross-and Self-feature Transformer with High-Frequency Feature Alignment for Reference-Based Super-Resolution},
+  author={Ko, Seonggwan and Cho, Donghyeon},
+  booktitle=ICPR,
+  pages={419--434},
+  year={2024}
+}

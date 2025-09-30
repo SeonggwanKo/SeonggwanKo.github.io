@@ -1,0 +1,31 @@
+main:
+  - title: "Reference-based Burst Super-resolution"
+    authors: "<strong>Seonggwan Ko</strong>, Yeong Jun Koh, Donghyeon Cho"
+    conference_short: MM
+    conference: "ACM International Conference on Multimedia <strong>(MM)</strong>, 2024."
+    pdf: https://drive.google.com/file/d/1fRk8AWoM2Q7cplNl-U4T5fOshhehUou4/view?usp=sharing
+    code: https://github.com/SeonggwanKo/RefBSR
+    # page:
+    bibtex: assets/files/ko2021learning.txt
+    image: assets/img/mm24.png
+
+  - title: "CSSR: Cross-and Self-Feature Transformer with High-Frequency Feature Alignment for Reference-based Super-Resolution"
+    authors: "<strong>Seonggwan Ko</strong>, Donghyeon Cho"
+    conference_short: ICPR
+    conference: "International Conference on Pattern Recognition <strong>(ICPR)</strong>, 2024."
+    pdf: https://drive.google.com/file/d/1OKyczaGdJBaDZhuRuV1Ix1040rxjIhfi/view?usp=sharing
+    # code:
+    # page:
+    bibtex: assets/files/ko2024cssr.txt
+    notes: "Oral Presentation"
+    image: assets/img/icpr24.png
+
+  - title: "Learning Lightweight Low-Light Enhancement Network using Pseudo Well-Exposed Images"
+    authors: "<strong>Seonggwan Ko*</strong>, Jinsun Park*, Byungjoo Chae, Donghyeon Cho"
+    conference_short: SPL
+    conference: "IEEE Signal Processing Letters <strong>(SPL)</strong>, 2021."
+    pdf: https://drive.google.com/file/d/1DaRcPGEWhP8vaGif9AHu6afLkwhgITQa/view?usp=sharing
+    code: https://github.com/SeonggwanKo/LLKD
+    # page:
+    bibtex: assets/files/ko2021learning.txt
+    image: assets/img/spl21.png

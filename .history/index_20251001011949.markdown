@@ -1,0 +1,23 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: homepage
+---
+
+## About Me
+
+I am an Research Engineer at HL Klemove, where I am developing autonomous driving systems. I completed my M.S. in Electronics Engineering at Chungnam National University’s Computer Vision & Image Processing Lab (CVIP), advised by [Prof. Donghyeon Cho](https://sites.google.com/view/hyu-cv). My research has focused on image reconstruction and generation, and I am also currently interested in 3D computer vision and neural rendering for robotics and immersive media.
+
+## Research Interests
+
+- **Computer Vision:** image generation, 3D reconstruction
+
+## News
+
+- **[Aug. 2024]** [Aug. 2024] Joined HL Klemove as an Research Engineer..
+- **[Jul. 2024]** One paper is accepted to ACM MM.
+- **[Apr. 2024]** One paper is accepted to ICPR (Oral).
+- **[Dec. 2021]** One paper is accepted to IEEE SPL.
+
+{% include_relative _includes/publications.md %}
