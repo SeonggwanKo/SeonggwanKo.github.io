@@ -18,7 +18,7 @@
 
 @media (prefers-color-scheme: dark) {
   .social-icons a {
-    color: #3eb7f0 !important;
+    color: #ffffff !important;
   }
 }
 
@@ -150,19 +150,19 @@ email {
 }
 
 .icon-button .icon-twitter {
-  color: #4099ff;
+  color: #ffffff;
 }
 
 .icon-button .icon-facebook {
-  color: #4286f4;
+  color: #ffffff;
 }
 
 .icon-button .icon-github {
-  color: #000;
+  color: #ffffff;
 }
 
 .icon-button .icon-linkedin {
-  color: #0077b5;
+  color: #ffffff;
 }
 
 .icon-button:hover .icon-twitter,
@@ -277,7 +277,7 @@ h1 {
 }
 
 h2 {
-  color: #043361;
+  color: #030303;
   font-weight: 500;
   margin: 2px 0px 15px;
   font-size: 157%;
@@ -289,11 +289,11 @@ h2 {
   h4,
   h5,
   h6 {
-    color: rgb(62, 183, 240);
+    color: rgb(255, 255, 255);
   }
 
   h2 {
-    color: rgb(62, 183, 240);
+    color: rgb(250, 250, 250);
   }
 }
 
@@ -393,11 +393,11 @@ th {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color: rgb(62, 183, 240);
+    color: rgb(255, 255, 255);
   }
 
   dt {
-    color: rgb(62, 183, 240);
+    color: rgb(255, 255, 255);
   }
 }
 
