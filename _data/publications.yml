@@ -24,7 +24,7 @@ main:
     authors: "<strong>Seonggwan Ko*</strong>, Jinsun Park*, Byungjoo Chae, Donghyeon Cho"
     conference_short: SPL
     conference: "IEEE Signal Processing Letters <strong>(SPL)</strong>, 2021."
-    pdf: https://drive.google.com/file/d/1DaRcPGEWhP8vaGif9AHu6afLkwhgITQa/view?usp=sharing
+    pdf: https://ieeexplore.ieee.org/document/9648037
     code: https://github.com/SeonggwanKo/LLKD
     # page:
     bibtex: assets/files/ko2021learning.txt
