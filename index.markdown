@@ -7,7 +7,11 @@ layout: homepage
 
 ## About Me
 
-I am an Research Engineer at HL Klemove, where I am developing autonomous driving systems. I completed my M.S. in Electronics Engineering at Chungnam National University’s Computer Vision & Image Processing Lab (CVIP), advised by [Prof. Donghyeon Cho](https://sites.google.com/view/hyu-cv). My research has focused on image reconstruction and generation, and I am also currently interested in 3D computer vision and neural rendering for robotics and immersive media.
+I am an Research Engineer at HL Klemove, where I am developing autonomous driving systems.
+
+I completed my M.S. in Electronics Engineering at Chungnam National University’s Computer Vision & Image Processing Lab (CVIP), advised by [Prof. Donghyeon Cho](https://sites.google.com/view/hyu-cv).
+
+My research has focused on image reconstruction and generation, and I am also currently interested in 3D computer vision and neural rendering for robotics and immersive media.
 
 ## Research Interests
 
