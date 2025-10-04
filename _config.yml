@@ -50,7 +50,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Roboto Mono" # or "Sans Serif"
+font: "Anonymous Pro" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
