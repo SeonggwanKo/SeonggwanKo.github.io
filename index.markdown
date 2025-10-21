@@ -11,11 +11,11 @@ I am an Research Engineer at HL Klemove, where I am developing autonomous drivin
 
 I completed my M.S. in Electronics Engineering at Chungnam National University’s Computer Vision & Image Processing Lab (CVIP), advised by [Prof. Donghyeon Cho](https://sites.google.com/view/hyu-cv).
 
-My research has focused on image reconstruction and generation, and I am also currently interested in 3D computer vision and neural rendering for robotics and immersive media.
+My research has focused on image reconstruction and generation, and I am also currently interested in 3D computer vision for robotics and immersive media.
 
 ## Research Interests
 
-- **Computer Vision:** image generation, 3D reconstruction
+- **Computer Vision:** 3D reconstruction, representation, generative models
 
 ## News
 
